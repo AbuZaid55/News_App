@@ -1,0 +1,12 @@
+#cardtitle{
+    overflow: hidden;
+    height: 25px;
+}
+#carddescription{
+    height: 75px;
+    overflow: hidden;
+}
+#cardauthor{
+    overflow: hidden;
+    height: 25px;
+}
